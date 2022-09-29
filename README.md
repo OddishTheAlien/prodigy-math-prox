@@ -1,38 +1,7 @@
 <img align="left" width="70px" src="https://raw.githubusercontent.com/titaniumnetwork-dev/Holy-Unblocker/master/views/assets/img/icon.png"></img>
-# Holy Unblocker
+# Holy Hand Grenade Prox
 
-Holy Unblocker, an official flagship Titanium Network site, can bypass web filters regardless of whether it is an extension or network-based. Being a secure web proxy service, it supports numerous sites while being updated frequently and concentrating on detail with design, mechanics, and features.
 
-Works with a large number of sites, including YouTube, Discord, and more!
-Also has a good amount of locally hosted games featured on the site.
-
-### You can support Holy Unblocker by starring the repository!
-
-Read below for information if the official site is blocked or for obtaining more links.
-
-Can't deploy using any of the free options below? Check out Railway or look into cheap, paid VPS hosting solutions.
-
-#### Why are updates no longer happening here for this repository?
-Please read over <a href="#important-message-original">here</a>.
-
-#### Where can I find the games for this repo? (404 errors, etc.)
-Due to piracy concerns, size, etc. this has been moved over <a href="https://github.com/QuiteAFancyEmerald/HU-Archive">here</a>.
-
-#### Supports
-- Youtube.com
-- Discord.com
-- Google.com
-- Reddit.com
-- Bing.com
-- And more sites!
-
-#### Features:
-- Tab customization using the Options menu for improved stealth 
-- Considerable variety with the open selection of proxy types 
-- Game library with moderately decent titles
-- Has frequent support articles for issues relating to the various proxy instances
-
-Note: EmuLibrary is not featured in the public version.
 
 Official Site: <a href="https://holyubofficial.net">https://holyubofficial.net</a>
 
